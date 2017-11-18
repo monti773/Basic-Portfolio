@@ -20,7 +20,7 @@ body {
 .container {
 	width: 960px;
 	margin: 0 auto;
-	min-height: 80%;
+	min-height: 100%;
 }
 
 #name {
@@ -71,9 +71,6 @@ header nav li a {
 	text-decoration: none;
 	color: #777777;
 	padding-left: 15px;
-}
-ul li:hover a{
-	color: #2C9AB7;
 }
 
 /* CONNECT */
