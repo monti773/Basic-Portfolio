@@ -95,7 +95,7 @@ ul li:hover a{
 	border-bottom: 2px solid lightgrey;
 }
 
-#connect .social-icons {
+#connect .click-icons {
 	margin: 25px;
 }
 
@@ -189,6 +189,7 @@ ul li:hover a{
 	background-color: #4aaaa5;
 	color: white;
 }
+
 
 
 /* CONTACT FORM */
